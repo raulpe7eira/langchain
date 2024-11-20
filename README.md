@@ -8,14 +8,14 @@ This code corresponds to the [LangChain and Python: Building Tools with LLM Open
 
 **Windows:**
 ```bash
-python -m venv langchain
-langchain\Scripts\activate
+python -m venv venv-langchain
+venv-langchain\Scripts\activate
 ```
 
 **Mac/Linux:**
 ```bash
-python3 -m venv langchain
-source langchain/bin/activate
+python3 -m venv venv-langchain
+source venv-langchain/bin/activate
 ```
 
 ### Installation of Libraries

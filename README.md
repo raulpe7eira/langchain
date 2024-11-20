@@ -2,7 +2,7 @@
 
 This code corresponds to the [LangChain and Python: Building Tools with LLM OpenAI](https://www.alura.com.br/curso-online-langchain-python-ferramentas-llm-openai) course by [Alura](https://www.alura.com.br).
 
-## ⚙️ Environment Configuration
+## Environment Configuration
 
 ### Creating and Activating the Virtual Environment
 

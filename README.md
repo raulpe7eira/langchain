@@ -1,8 +1,8 @@
 # OpenAI: LangChain
 
-## ⚙️ Configuração do Ambiente
+## ⚙️ Environment Configuration
 
-### Criando e Ativando o Ambiente Virtual
+### Creating and Activating the Virtual Environment
 
 **Windows:**
 ```bash
@@ -16,7 +16,7 @@ python3 -m venv langchain
 source langchain/bin/activate
 ```
 
-### Instalação das Bibliotecas
+### Installation of Libraries
 
 ```bash
 pip install -r requirements.txt

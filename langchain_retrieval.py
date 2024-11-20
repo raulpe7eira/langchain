@@ -31,5 +31,5 @@ db = FAISS.from_documents(texts, embeddings)
 qa_chain = RetrievalQA.from_chain_type(llm, retriever=db.as_retriever())
 
 answer = "Como devo proceder caso tenha um item comprado roubado"
-resultado = qa_chain.invoke({ "query" : answer})
-print(resultado)
+response = qa_chain.invoke({ "query" : answer})
+print(response)
